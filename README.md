@@ -15,7 +15,7 @@ Download it from the [chrome web store](https://chrome.google.com/webstore/categ
 1. Copy-paste the password where needed!
 
 ## Screenshot
-![Screenshot of KISS Password Generator](https://ai.github.io/pwdgen/pwdgen_screenshot.png "Screenshot")
+![Screenshot of KISS Password Generator](https://github.com/CedricJaeger/KissPwdGen/blob/69510333aed971c0bfc30c07a09231ebe4e6729f/pwdgen_screenshot.png "Screenshot")
 
 ## Contributing
 Contributions aren't expected. Fork the project instead.

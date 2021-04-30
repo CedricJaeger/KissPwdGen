@@ -1,0 +1,118 @@
+/*
+    Copyright 2021 Cédric Jäger
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+*/
+
+body {
+    width: 400px;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+#pwdgenTitleSection {
+    display: block;
+    white-space: nowrap;
+    overflow-x: auto;    
+    background-color: #CEE8FA;
+    line-height: 35px;
+}
+
+#pwdgenLogo {
+    display: inline-block;
+    margin-left: 6pt;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    vertical-align: sub;
+}
+
+#pwdgenLogoImage {
+    height: 16px;
+    width: 16px;
+}
+
+#pwdgenTitle {
+    display: inline-block;
+    margin-left: 6pt;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 6pt;
+    font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+    font-size: 10pt;
+    font-weight: 550;
+    color: #2D527C;
+    width: 330px;
+}
+
+#pwdgenClose {
+    display: inline-block;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: 16px;
+    margin-bottom: auto;
+}
+
+#pwdgenCloseImage {
+    height: 11px;
+    width: 11px;
+}
+
+#pwdgenMainSection {
+    display: block;
+    background-color: white;    
+}
+
+.pwdGenLabel {
+    display: inline-block;
+    margin-left: 6pt;
+    margin-top: 6pt;
+    margin-bottom: 2pt;
+    margin-right: 0pt;
+    font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+    font-size: 10pt;
+    color: black;
+}
+
+.pwdGenLabelImage {
+    height: 13px;
+    width: 13px;
+    vertical-align: baseline;
+}
+
+.pwdGenInput {
+    display: inline-block;
+    margin-left: 6pt;
+    margin-top: 0pt;
+    margin-bottom: 0pt;
+    margin-right: 0pt;
+    font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+    font-size: 10pt;
+    color: black;
+    width: 350px;
+    border: none;
+}
+
+#pwdgenFooterSection {
+    display: block;
+    background-color: #CEE8FA;
+    margin-left: 0px;
+    margin-top: 16px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    line-height: 16px;
+    font-family: 'Segoe UI', 'Segoe UI Web (West European)', 'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, 'Helvetica Neue', sans-serif;
+    font-size: 10pt;
+    color: red;
+}

@@ -1,0 +1,25 @@
+{
+    "name": "KISS Password Generator",
+    "shortname": "KISS Pwd Gen",
+    "description": "The Keep It Simple Stupid Password Generator Extension generate strong passwords for use in conjuction with a password manager of your choice.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "permissions": [],
+    "optional_permissions": [],
+    "action": {
+      "default_popup": "pwdgen.html",
+      "default_icon": {
+        "16": "pwdgen_16px.png",
+        "32": "pwdgen_32px.png",
+        "48": "pwdgen_48px.png",
+        "128": "pwdgen_128px.png"
+      }
+    },
+    "icons": {
+        "16": "pwdgen_16px.png",
+        "32": "pwdgen_32px.png",
+        "48": "pwdgen_48px.png",
+        "128": "pwdgen_128px.png"
+    },
+    "author": "Cédric Jäger"
+  }

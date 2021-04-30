@@ -1,6 +1,6 @@
 # KISS Password Generator
 
-<img src="https://ai.github.io/pwdgen/pwdgen_logo.svg" style="float: right; width=120px;" alt="KISS Password Generator Logo">
+<img src="https://raw.githubusercontent.com/CedricJaeger/KissPwdGen/e57459f34e09342c1e6b543f251a33c9c40cfda9/pwdgen_logo.svg" style="float: right; width=120px;" alt="KISS Password Generator Logo">
 
 ## Description
 KISS Password Manager is a simple password generator extension for use in Chromium-based browsers like Google Chrome or Microsoft Edge. The password generator provides unique random passwords

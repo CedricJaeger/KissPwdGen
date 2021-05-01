@@ -42,10 +42,10 @@ This extension :
 > -- <cite><a href="https://fr.wikipedia.org/wiki/Terre_des_hommes">Terre des hommes</a></cite> d'Antoine de Saint-Exupéry
 
 ### Why another password generator?
-Most password generators offer way too many unneeded functionalities: customizable charset, password's length, etc. On the other hand, this password generator uses some presets to define a 'strong' password and a 'weak' password each time the extension is activated, that's all! Moreover your password is only 2 clicks away!
+Most password generators offer way too many unneeded functionalities: customizable charset, password's length, etc. On the other hand, this password generator uses some presets to define a 'strong' password and a 'weak' password. Each time the extension is activated it will genreate two passwords, that's all! Moreover your password is only 2 clicks away, you just have to copy-paste it!
 
 ### How are passwords generated?
-Password are generated using the [window.crypto.getRandomValues()](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues) JavaScript function, which provides pseudo-random number generator suitable for cryptographic purposes.
+Password are generated using the [window.crypto.getRandomValues()](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues) JavaScript function, which provides a pseudo-random number generator suitable for cryptographic purposes.
 Then the random numbers are mapped on a set of printable characters.
 
 ### What's a 'strong' password?

@@ -29,10 +29,8 @@ function getCharacterset(complexity) {
     // define some arrays of printable characters for use in the generated passwords
     const alphaUpperCase = Array.from('ABCDEFGHIJKLMNOPQRSTUVWXYZ');
     const alphaLowerCase = Array.from('abcdefghijklmnopqrstuvwxyz');
-    const alphaExtended = Array.from('ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿ'); // not used at this time, too few sites support them
     const numbers = Array.from('1234567890');
     const symbols = Array.from('!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~');
-    const symbolsExtended = Array.from('£€¢¥×÷«»¿¡¯°§©®±¼½¾');  // not used at this time, too few sites support them
 
     let complexityArray = new Array();
     switch (complexity) {

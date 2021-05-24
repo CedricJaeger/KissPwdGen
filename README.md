@@ -7,7 +7,7 @@ KISS Password Manager is a simple password generator extension for use in Chromi
 for use in conjunction with a password manager.
 
 ## Installation
-Download it from the [chrome web store](https://chrome.google.com/webstore/detail/kiss-password-generator/namgaoeoniofgipphlkphffaidlndoih).<!-- > or the [microsoft store](https://www.microsoft.com/en-us/store/collections/edgeextensions/pc) (todo : add link when MS supports manifest v3). -->
+Download it from the [chrome web store](https://chrome.google.com/webstore/detail/kiss-password-generator/namgaoeoniofgipphlkphffaidlndoih) or the [microsoft edge store](https://microsoftedge.microsoft.com/addons/detail/pkmhfpnkjlpanhbgoaceaijgphpinbie).
 
 ## Usage
 1. Click the KISS Password Generator icon.
